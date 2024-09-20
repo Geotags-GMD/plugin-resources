@@ -10,12 +10,12 @@
     },
     {
       "id": 2,
-      "name": "QGIS2Web",
+      "name": "Apply QML Style",
       "type": "Plugin",
       "image": "/placeholder.svg?height=200&width=200",
       "description": "Exports your QGIS project to an interactive web map.",
       "usage": "After installation, go to Web > QGIS2Web to export your project.",
-      "githubRepo": "tomchadwin/qgis2web"
+      "githubRepo": "Geotags-GMD/apply_qml_style"
     }
   ]
   
