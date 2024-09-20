@@ -1,20 +1,11 @@
 [
     {
       "id": 1,
-      "name": "QuickMapServices",
-      "type": "Plugin",
-      "image": "/placeholder.svg?height=200&width=200",
-      "description": "Adds base maps from various online sources.",
-      "usage": "After installation, go to Web > QuickMapServices to add base maps to your project.",
-      "githubRepo": "nextgis/quickmapservices"
-    },
-    {
-      "id": 2,
       "name": "Apply QML Style",
       "type": "Plugin",
       "image": "https://raw.githubusercontent.com/Geotags-GMD/plugin-resources/refs/heads/main/icon/apply_qml_style.png?height=200&width=200",
-      "description": "Exports your QGIS project to an interactive web map.",
-      "usage": "After installation, go to Web > QGIS2Web to export your project.",
+      "description": "This plugin is particularly useful for managing and styling large sets of geospatial data where consistent visual representation is crucial.",
+      "usage": "Choose the layer groups to which you want to apply the styles",
       "githubRepo": "Geotags-GMD/apply_qml_style"
     }
   ]
