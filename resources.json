@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "QuickMapServices",
+      "type": "Plugin",
+      "image": "/placeholder.svg?height=200&width=200",
+      "description": "Adds base maps from various online sources.",
+      "usage": "After installation, go to Web > QuickMapServices to add base maps to your project.",
+      "githubRepo": "nextgis/quickmapservices"
+    },
+    {
+      "id": 2,
+      "name": "QGIS2Web",
+      "type": "Plugin",
+      "image": "/placeholder.svg?height=200&width=200",
+      "description": "Exports your QGIS project to an interactive web map.",
+      "usage": "After installation, go to Web > QGIS2Web to export your project.",
+      "githubRepo": "tomchadwin/qgis2web"
+    }
+  ]
+  
